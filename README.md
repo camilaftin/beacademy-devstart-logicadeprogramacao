@@ -3,4 +3,4 @@
 ## O arquivo encontra-se zipado e feito através da linguagem java.
 ### SDK versão 17
 ### IDE utilizada Intellij
-#### Uso da classe Scanner
+Uso da classe Scanner
